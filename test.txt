@@ -1,3 +1,6 @@
 test file for branching and merging visualization testing ...
 second edition
 test conflict
+second edition
+newline in master online
+resolve merge conflict at cherry pick!!!
