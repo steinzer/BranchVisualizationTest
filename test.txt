@@ -1,2 +1,3 @@
 test file for branching and merging visualization testing ...
 second edition
+newline in master online
